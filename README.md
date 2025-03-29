@@ -73,7 +73,7 @@ To obtain your Instagram session ID:\
 
 ## 📌 Connect with Me
 
-👤 \*\* Instagram ([https://www.instagram.com/n8bx/](https://www.instagram.com/n8bx/))
+- **Instagram**: ([https://www.instagram.com/n8bx/](https://www.instagram.com/n8bx/))
 
 - **GitHub**: [https://github.com/N8BX](https://github.com/N8BX)
 - **Telegram**: [https://t.me/SY\_BROTHER](https://t.me/SY_BROTHER)
