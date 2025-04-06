@@ -18,7 +18,7 @@ An advanced **Python script** that allows users to **convert API keys to session
 - ✅ **Converts session ID for further API use**
 - ✅ **Error handling & formatted output with colors**
 - ✅ **Can be used on a phone and with any Python IDLE**
-- ✅ Exe file just run it on desktop
+
 
 ## 🚀 Installation
 
